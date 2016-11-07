@@ -1,2 +1,4 @@
-# ICT2201-W10-Lab
-Repository for 2201 Lab 
+# ICT2101
+This is a repo for ICT2101
+
+This is to activate automatic build. 
